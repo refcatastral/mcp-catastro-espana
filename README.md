@@ -81,7 +81,7 @@ Una vez instalado, puedes pedirle a tu asistente:
 * 🏠 **Portal Principal:** [RefCatastral.es](https://refcatastral.es)
 * 🛰️ **Comparador de Ortofotos Aéreas (1973 - Actualidad):** [RefCatastral Ortofotos](https://refcatastral.es/comparador-ortofotos/)
 * 📐 **Visor de Parcelas y Linderos:** [Visor Catastro RefCatastral](https://refcatastral.es/visor-catastro/)
-* ⚖️ **Sede Oficial:** [Dirección General del Catastro (Ministerio de Hacienda)](https://www.catastro.meh.es/)
+* 🏛️ **Catastro Virtual:** [Oficina Virtual y Guía del Catastro](https://refcatastral.es/catastro-virtual/)
 
 ---
 
