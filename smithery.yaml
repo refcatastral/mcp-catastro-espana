@@ -1,0 +1,14 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+    required: []
+  commandFunction:
+    |-
+    (config) => ({
+      command: 'npx',
+      args: ['-y', 'mcp-catastro-espana'],
+      env: {}
+    })
+
