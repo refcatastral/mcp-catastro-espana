@@ -1,0 +1,44 @@
+{
+  "name": "mcp-catastro-espana",
+  "version": "1.0.0",
+  "description": "Servidor MCP (Model Context Protocol) oficial de RefCatastral.es para consultar referencias catastrales, datos de inmuebles, coordenadas GPS y cartografía oficial de España.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mcp-catastro-espana": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "modelcontextprotocol",
+    "catastro",
+    "espana",
+    "refcatastral",
+    "referencia-catastral",
+    "gis",
+    "wms",
+    "coordenadas",
+    "inmuebles",
+    "cartografia"
+  ],
+  "author": "RefCatastral.es <info@refcatastral.es> (https://refcatastral.es)",
+  "license": "MIT",
+  "homepage": "https://refcatastral.es",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/refcatastral/mcp-catastro-espana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/refcatastral/mcp-catastro-espana/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
